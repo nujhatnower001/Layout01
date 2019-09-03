@@ -1,0 +1,43 @@
+.header{
+	background-color: blue;
+	min-height: 100px;
+}
+.logo{
+	text-align: left;
+	padding: 3%
+}
+.navigation{
+	background-color: gray;
+	min-height: 100px;
+}
+.nav{
+	text-align: center;
+	padding: 3%;
+}
+.beanner{
+	background-color:pink;
+	min-height: 100px;
+}
+.beannertxt{
+	text-align: center;
+	padding: 4%;
+}
+.wrapper{
+	overflow: hidden;
+}
+.sidebar{
+	background-color:yellow;
+	min-height: 100px;
+	width: 49%;
+	float: left;
+}
+.bodyarea{
+	background-color: red;
+	min-height: 100px;
+	width: 49%;
+	float: right; 
+}
+.footer{
+	background-color: purple;
+	min-height: 100px;
+}
